@@ -208,7 +208,7 @@
 					"type": "string"
 				},
 				"reference_video": {
-					"description": "Reference video (HTTP(S) URL or base64 data URI) for style/motion guidance",
+					"description": "Reference video (HTTP(S) URL) for style/motion guidance",
 					"type": "string"
 				},
 				"last_frame_image": {

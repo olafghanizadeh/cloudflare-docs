@@ -226,7 +226,7 @@
 					}
 				},
 				"reference_videos": {
-					"description": "Reference videos (0-10, HTTP(S) URLs or base64 data URIs) for style/motion guidance, video editing, or video extension. Total duration of all reference videos must not exceed 30 seconds.",
+					"description": "Reference videos (0-10, HTTP(S) URLs) for style/motion guidance, video editing, or video extension. Total duration of all reference videos must not exceed 30 seconds.",
 					"maxItems": 10,
 					"type": "array",
 					"items": {
